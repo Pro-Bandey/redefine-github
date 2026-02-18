@@ -1,1 +1,0 @@
-github,gh,git,safari,extension,browser,improve,experience,ui,user,interface,issue,pull,request
