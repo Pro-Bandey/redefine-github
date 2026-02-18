@@ -1,4 +1,0 @@
-* text=auto eol=lf
-*.snap linguist-generated
-readme.md merge=union
-source/refined-github.css merge=union
